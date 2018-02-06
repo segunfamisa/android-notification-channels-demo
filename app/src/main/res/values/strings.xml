@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">android-notification-channels</string>
+
+    <string name="pm_channel_name">Private messages</string>
+    <string name="new_activity_channel_name">New likes or comments</string>
+</resources>
